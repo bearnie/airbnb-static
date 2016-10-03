@@ -66,7 +66,7 @@ title: Le Wagon Middleman boilerplate
             <div class="card"  style="background: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.2)), url('<%= image_path infos.flat_image %>');" >
               <div class="card-category"><%= infos.location.capitalize %></div>
               <div class="card-description">
-                <h2><%= name.capitalize %>'s home</h2>
+                <h2><%= name.capitalize %>'s <%= infos.tagline.capitalize %></h2>
                 <p><%= infos.description.capitalize %></p>
               </div>
                <%= image_tag infos.user_image, class: "card-user avatar avatar-large" %>

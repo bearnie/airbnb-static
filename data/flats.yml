@@ -1,17 +1,20 @@
 seb:
   user_image: seb.jpg
   location: paris
-  description: charming flat with patio
+  tagline: untidy flat
+  description: there's no describing what you'll see
   flat_image: card-paris.jpg
 
 anne:
   user_image: anne.jpg
   location: brussels
-  description: lovely downtown house
+  tagline: big messy home
+  description: you won't believe your eyes
   flat_image: card-brussels.jpg
 
 romain:
   user_image: romain.jpg
   location: london
-  description: nice apartment near Charing Cross
+  tagline: uncharming filthy condo
+  description: right in the toughest part of East-end
   flat_image: card-london.jpg
